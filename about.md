@@ -41,9 +41,9 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p> 
-email：leoparpan@icloud.com       
+email：306220945@qq.com       
 <p> 
-qq: 1499065178     
+qq: 306220945    
 <p> 
 如果有 搭建博客 或者 移动端 技术的问题可以一起讨论.
 <p> 
